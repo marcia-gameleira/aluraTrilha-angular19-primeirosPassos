@@ -1,9 +1,0 @@
-.apresentacao {
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
-}
-
-.titulo {
-  font-weight: 700;
-}
